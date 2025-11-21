@@ -13,6 +13,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 body {
+  background-color: #1a1a1a;
   font-family: 'Poppins', sans-serif;
 }
 
